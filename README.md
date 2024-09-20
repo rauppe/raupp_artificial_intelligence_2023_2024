@@ -1,3 +1,13 @@
+
+Contains my final project and homework projects from Artificial Intelligence I 2023 at University College Cork.
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+# Notes for use from Professor Derek Bridge:
+*
+*
+*
 # Getting Started with CS4618 and CS4619
 
 ## Introduction
